@@ -1,6 +1,7 @@
 @startuml
-                  
-
+                  /'
+                  add some comment
+                  '/
 
 
 state choice1 <<choice>>
